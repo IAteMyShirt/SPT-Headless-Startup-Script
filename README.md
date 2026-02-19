@@ -14,6 +14,7 @@ A "Smart-Check" automation utility for Sarkov Project T (SPT) and Fika. This scr
 
 Move this script (Start_Fika.bat) into your Main SPT Directory (the one containing SPT.Server.lnk and FikaHeadlessManager.exe).
 2. Create the Server Shortcut
+
 **Should have been done automatically after installing SPT**
 
 Because the SPT Server often needs specific start arguments, you must create a shortcut:
