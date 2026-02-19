@@ -1,4 +1,4 @@
-SPT + Fika Headless Auto-Launcher (Universal)
+SPT + Fika Headless Auto-Launcher (Windows)
 
 A "Smart-Check" automation utility for Sarkov Project T (SPT) and Fika. This script handles the heavy lifting of your startup sequence by monitoring your network ports to ensure the server is fully "Listening" before firing up the game client.
 🚀 Key Features
